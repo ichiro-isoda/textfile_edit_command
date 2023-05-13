@@ -1,1 +1,1 @@
-![](pjt_manual.pdf)
+![manual](pjt_manual.pdf)
